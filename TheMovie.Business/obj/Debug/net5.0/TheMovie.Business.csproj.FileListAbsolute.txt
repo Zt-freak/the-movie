@@ -1,0 +1,15 @@
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\bin\Debug\net5.0\TheMovie.Business.deps.json
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\bin\Debug\net5.0\TheMovie.Business.runtimeconfig.json
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\bin\Debug\net5.0\TheMovie.Business.runtimeconfig.dev.json
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\bin\Debug\net5.0\TheMovie.Business.dll
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\bin\Debug\net5.0\ref\TheMovie.Business.dll
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\bin\Debug\net5.0\TheMovie.Business.pdb
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.csproj.AssemblyReference.cache
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.AssemblyInfoInputs.cache
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.AssemblyInfo.cs
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.dll
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\ref\TheMovie.Business.dll
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.pdb
+C:\Users\bnkho\source\repos\TheMovie\TheMovie.Business\obj\Debug\net5.0\TheMovie.Business.genruntimeconfig.cache

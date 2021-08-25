@@ -1,0 +1,12 @@
+- [x] Nieuwe console
+- [x] Nieuwe class library de business
+- [x] Business een datacontext maken met de DbContext (vergeet de connectionstring niet)
+- [x] In de business een entity "Movie" (id, name, releasedate)
+- [x] In de business een service voor movies
+- [x] Service: methode lijst all movies
+- [x] Servide: methode 1 movie a.d.h.v. een ID
+- [x] Movie entity koppelen aan Entity Framework
+- [x] Migratie maken
+- [x] Seeding toepassen voor 5 films
+- [x] Console applicatie moet lijst films terug geven
+- [x] Console applicatie moet input kunnen ontvangen; de ID van een movie. En de betreffende movie terugsturen.
